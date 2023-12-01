@@ -1,0 +1,12 @@
+<products>
+	<product id="1" name="Computer" price="987" grp="A"/>
+	<product id="2" name="Screen" price="124.55" grp="A"/>
+	<product id="3" name="Printer" price="230.79" grp="A"/>
+	<product id="4" name="Paper" price="35.99" grp="A"/>
+	<product id="5" name="Table" price="65" grp="A"/>
+	<product id="6" name="Apple" price="12" grp="B"/>
+	<product id="7" name="Orange" price="09" grp="B"/>
+	<product id="8" name="Kaki" price="19" grp="B"/>
+	<product id="9" name="Mango" price="23" grp="B"/>
+	<product id="10" name="Watermelon" price="19" grp="B"/>
+</products>
