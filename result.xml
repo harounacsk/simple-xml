@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<products>
+  <product group="A">
+    <elm name="Computer" price="987"/>
+    <elm name="Screen" price="124.55"/>
+    <elm name="Printer" price="230.79"/>
+    <elm name="Paper" price="35.99"/>
+    <elm name="Table" price="65"/>
+  </product>
+  <product group="B">
+    <elm name="Apple" price="12"/>
+    <elm name="Orange" price="09"/>
+    <elm name="Kaki" price="19"/>
+    <elm name="Mango" price="23"/>
+    <elm name="Watermelon" price="19"/>
+  </product>
+</products>
